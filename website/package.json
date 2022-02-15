@@ -6,7 +6,7 @@
     "author": "Explosion <contact@explosion.ai>",
     "license": "MIT",
     "dependencies": {
-        "@jupyterlab/outputarea": "^0.19.1",
+        "@jupyterlab/outputarea": "^3.0.0",
         "@jupyterlab/rendermime": "^0.19.1",
         "@mdx-js/mdx": "^0.17.5",
         "@mdx-js/tag": "^0.17.5",
