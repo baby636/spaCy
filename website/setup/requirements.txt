@@ -1,3 +1,4 @@
 # These are used to compile the training quickstart config
 jinja2
 srsly
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
